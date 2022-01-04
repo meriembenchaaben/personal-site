@@ -24,7 +24,7 @@ const positions = [
     company: 'UNIVERSITY OF MICHIGAN-DEARBORN-ISE LAB',
     position: 'Internship',
     link: 'http://kessentini.net/ise-lab',
-    daterange: 'September 2016 - 2018',
+    daterange: 'July 2020 - August 2020',
     points: [
       'Defined key concepts of containers smells and anti patterns',
       'Collected and cleaned Data of containers based projects.',
@@ -34,7 +34,7 @@ const positions = [
     company: 'EXPENSYA',
     position: 'Mobile development intern',
     link: 'https://www.expensya.com/fr/',
-    daterange: 'February 2016 - March 2016',
+    daterange: 'Juin 2019 - August 2019',
     points: [
       'Supported the Expensya mobile application lifecycle.',
       'Contributed to developing new functionalities of expense management, Wrote unit tests to identify malfunctions.',
